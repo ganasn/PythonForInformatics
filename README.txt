@@ -10,4 +10,8 @@ Actual: Yet to complete exercises in chapter 3
 
 Aug 10, 2017 - Day-3
 Planned: Complete chapter 3 exercises & then chapter 4
-Actual: 
+Actual: Completed chapter 3 & 4
+
+Aug 11, 2017 - Day-4
+Planned: Complete chapters 5 & 6
+Actual: Completed chapter 5
