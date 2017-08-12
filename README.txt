@@ -14,4 +14,4 @@ Actual: Completed chapter 3 & 4
 
 Aug 11, 2017 - Day-4
 Planned: Complete chapters 5 & 6
-Actual: Completed chapter 5 & almost 6 (except part of 6-14-5)
+Actual: Completed chapters 5 & 6
