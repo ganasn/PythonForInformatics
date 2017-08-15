@@ -23,3 +23,11 @@ Actual: Chapter 7 & chapter 8 (except last 2 exercises)
 Aug 13, 2017 - Day-6
 Planned: Complete exercises in Chapter 8 & then chapter 9
 Actual: Exercises in chapter 8
+
+Aug 14, 2017 - Day-7
+Planned: Complete chapter 9
+Actual: NONE
+
+Aug 15, 2017 - Day-8
+Planned: Complete chapter 9
+Actual: 
