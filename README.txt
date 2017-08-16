@@ -30,4 +30,12 @@ Actual: NONE
 
 Aug 15, 2017 - Day-8
 Planned: Complete chapter 9
+Actual: Completed chapter 9, with a part of exercise 9-7-4 remaining
+
+Aug 16, 2017 - Day-9
+Planned: Completely complete chapter 9 and then chapter 10
+Actual: Completed ex 9-7-4 and studying until section 10.9
+
+Aug 17, 2017 - Day-10
+Planned: Complete chapter 10 and exercises & commence chapter 11 study 
 Actual: 
