@@ -17,10 +17,20 @@ for lines in file_text:
 
 print freq.items()
 
-email_list = freq.values()
+#email_list = freq.values()
+#for keys in freq:
+#    if max(email_list) == freq[keys]:
+#        print freq[keys]
+#        break
+#    else:
+#        continue
+
+t = list()
+#This just makes 't' a dict instead of a tuple
+#t = freq
+
 for keys in freq:
-    if max(email_list) == freq[keys]:
-        print freq[keys]
-        break
-    else:
-        continue
+    t.append((keys, freq[keys]))
+    
+t.sort(reverse = True)
+print t
