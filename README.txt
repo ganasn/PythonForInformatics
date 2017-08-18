@@ -42,4 +42,4 @@ Actual: Completed chapter 10
 
 Aug 18, 2017 - Day-11
 Planned: Complete chapters 11 & 12 
-Actual: Completed chapter 11 on RegEx
+Actual: Completed chapter 11 on RegEx & Chapter 12 (few selected exercises were chosen to be completed)
