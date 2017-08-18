@@ -38,4 +38,8 @@ Actual: Completed ex 9-7-4 and studying until section 10.9
 
 Aug 17, 2017 - Day-10
 Planned: Complete chapter 10 and exercises & commence chapter 11 study 
-Actual: 
+Actual: Completed chapter 10
+
+Aug 18, 2017 - Day-11
+Planned: Complete chapters 11 & 12 
+Actual: Completed chapter 11 on RegEx
