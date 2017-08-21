@@ -52,5 +52,5 @@ None
 
 Aug 21, 2017 - Day-14
 Planned: Complete chapter 13 & 14
-Actual: Completed chapter 13
+Actual: Completed chapter 13, 14, 15, & 16 [No exercises attempted in last 3 chapters]
 
