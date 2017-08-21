@@ -43,3 +43,14 @@ Actual: Completed chapter 10
 Aug 18, 2017 - Day-11
 Planned: Complete chapters 11 & 12 
 Actual: Completed chapter 11 on RegEx & Chapter 12 (few selected exercises were chosen to be completed)
+
+Aug 19, 2017 - Day-12
+None
+
+Aug 20, 2017 - Day-13
+None
+
+Aug 21, 2017 - Day-14
+Planned: Complete chapter 13 & 14
+Actual: Completed chapter 13
+
